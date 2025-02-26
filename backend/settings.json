@@ -1,0 +1,7 @@
+{
+    "From": "",
+	"To": "",
+	"Password": "",
+	"SmtpHost": "smtp.yandex.ru",
+	"SmtpPort": 587
+}

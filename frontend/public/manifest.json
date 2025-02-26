@@ -1,0 +1,22 @@
+{
+  "short_name": "Пионер",
+  "name": "Автопарк Пионер",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.png",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
