@@ -67,8 +67,8 @@ const Main = () => {
                     <a style={{ fontSize: '35px', fontStyle: 'italic', fontWeight: 'bold' }}>Техподдержка <br />в удобном для вас мессенджере</a><br /><br />
                     <a style={{ fontSize: '28px', fontStyle: 'italic' }}> Оперативно ответим,<br />подключим в парк,<br />быстро решим любой вопрос </a><br />
                     <div>
-                        <img src="./img/tg.png" alt="" width="53px" height="53px"/>
-                        <img src="./img/whatsapp.png" alt="" width="53px" height="53px"/>
+                        <a href="https://t.me/pioneer_pro" target="_blank" rel="noopener noreferrer"><img src="./img/tg.png" alt="" width="53px" height="53px"/></a>
+                        <a href="https://wa.me/89226756819" target="_blank" rel="noopener noreferrer"><img src="./img/whatsapp.png" alt="" width="53px" height="53px"/></a>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,12 @@ const Main = () => {
                 <div className="footer-label">
                     <a style={{ fontSize: '25px', fontStyle: 'italic' }}>Связаться с нами</a><br /><br />
                 </div>
-                <a style={{ fontSize: '23px', fontStyle: 'italic' }}>Номер телефона: +7 922 675 68 19<br />Куликовских Денис Сергеевич<br />Email: kulikd45@mail.ru</a>
+                <a style={{ fontSize: '23px', fontStyle: 'italic' }}>Номер телефона: +7 922 675 68 19<br />
+                    Email: kulikd45@yandex.ru<br />
+                    ИП Куликовских Д.С.<br />
+                    ОГРНИП 323450000001180<br />
+                    ИНН 450128400164<br />
+                </a>
             </footer>
         </>
     );
